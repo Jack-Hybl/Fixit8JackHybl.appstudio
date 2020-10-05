@@ -54,6 +54,15 @@
         "Elements",
         "butReset.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "calculator",
+        "Elements",
+        "lblAnswer.json"
+      ]
     }
   ],
   "class": "",

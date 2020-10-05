@@ -27,6 +27,14 @@
           "!type": "External",
           "file": [
             "forms",
+            "calculator",
+            "calculator.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
             "login",
             "login.json"
           ]
@@ -51,8 +59,8 @@
           "!type": "External",
           "file": [
             "forms",
-            "calculator",
-            "calculator.json"
+            "twoControls",
+            "twoControls.json"
           ]
         }
       ],
@@ -77,7 +85,7 @@
       "exetitle": "",
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "login",
+      "firstform": "twoControls",
       "fontFamily": "system",
       "height": "",
       "homescreenTitle": "",
